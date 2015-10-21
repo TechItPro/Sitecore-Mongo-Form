@@ -1,0 +1,142 @@
+----item----
+version: 1
+id: {0E764F48-15D7-41BD-A78A-28E7083B96D7}
+database: master
+path: /sitecore/templates/User Defined/TechITPro/Forms/Privacy Election/__Standard Values
+parent: {187FEC0E-73E9-463A-A30F-E5CADBABF5F1}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {187FEC0E-73E9-463A-A30F-E5CADBABF5F1}
+templatekey: Privacy Election
+
+----version----
+language: en
+version: 1
+revision: 60d0131c-cf09-474b-8d25-fce6b0ca375c
+
+----field----
+field: {F3CAA476-8F51-43DE-A8AD-6637FD270624}
+name: First Name Placeholder
+key: first name placeholder
+content-length: 20
+
+First Name, eg: John
+----field----
+field: {B9470BA3-EBC0-4CD5-920D-09672F105C74}
+name: Last Name Placeholder
+key: last name placeholder
+content-length: 18
+
+Last Name, eg: Doe
+----field----
+field: {10D8D661-975B-4E96-927F-4172694862E9}
+name: Address Placeholder
+key: address placeholder
+content-length: 21
+
+Include unit or apt #
+----field----
+field: {60E6A81E-596A-433F-8DD8-E18152C05D1C}
+name: City Placeholder
+key: city placeholder
+content-length: 4
+
+City
+----field----
+field: {235960DB-58C2-4EEC-A463-04BBA5E88570}
+name: State Placeholder
+key: state placeholder
+content-length: 5
+
+State
+----field----
+field: {62030BE4-D245-453C-8B09-02E8DEA49496}
+name: Zip Code Placeholder
+key: zip code placeholder
+content-length: 8
+
+Zip Code
+----field----
+field: {EDD98C58-FA2F-400C-BCFE-43D7B41E4309}
+name: Phone Number Placeholder
+key: phone number placeholder
+content-length: 12
+
+999-999-9999
+----field----
+field: {935A2370-F9B8-487E-A94D-B4E9486E7675}
+name: Success Alert
+key: success alert
+content-length: 8
+
+Success!
+----field----
+field: {4DDC97D5-D13D-4288-88CC-ADE48B5CEB47}
+name: Error Alert
+key: error alert
+content-length: 6
+
+Error!
+----field----
+field: {F2B83DE5-C223-48C0-A15D-085ED387641A}
+name: Zip Code Format Message
+key: zip code format message
+content-length: 18
+
+Incorrect zip code
+----field----
+field: {FBA7BDEF-E148-425D-BB36-4DF92911B512}
+name: Phone Required Message
+key: phone required message
+content-length: 24
+
+Phone number is required
+----field----
+field: {6896B91C-3351-493E-9B81-B83D573C6759}
+name: Phone Format Message
+key: phone format message
+content-length: 22
+
+Incorrect phone number
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150915T182534Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+60d0131c-cf09-474b-8d25-fce6b0ca375c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20151020T062925Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
