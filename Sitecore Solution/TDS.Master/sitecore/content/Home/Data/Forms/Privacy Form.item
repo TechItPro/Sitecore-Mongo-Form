@@ -15,55 +15,6 @@ version: 1
 revision: 461d3fc2-59c2-433c-b0e4-5d5571479b16
 
 ----field----
-field: {2872FF02-021D-41F9-BBA7-8981CD9217D2}
-name: FirstName
-key: firstname
-content-length: 0
-
-
-----field----
-field: {4C97A7E8-6556-4577-A8C9-97843F2BC5FE}
-name: LastName
-key: lastname
-content-length: 0
-
-
-----field----
-field: {38854E67-EF70-45A9-A3BF-378221AD5C68}
-name: Address
-key: address
-content-length: 0
-
-
-----field----
-field: {F6820A90-603A-47C6-BDBE-EF1314B50586}
-name: City
-key: city
-content-length: 0
-
-
-----field----
-field: {48C97CA6-549D-4828-9554-B21B76FC4443}
-name: State
-key: state
-content-length: 0
-
-
-----field----
-field: {4B58F2DE-EB36-4E02-BBEB-B52C99039D87}
-name: Zip
-key: zip
-content-length: 0
-
-
-----field----
-field: {3040501B-5397-44E8-B095-6B4878D9C563}
-name: Phone
-key: phone
-content-length: 0
-
-
-----field----
 field: {0309A152-76D5-4E31-818A-D1D10158D3E3}
 name: Submit Button Text
 key: submit button text
