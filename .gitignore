@@ -1,43 +1,70 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
 
-# Folder config file
-Desktop.ini
+#jbehave/idea
+.idea
+*.swp
+*~
+*.log
+target/
+build/
+gen-*/
+bin/
+*.ipr
+*.iml
+*.iws
+**/ConfigRoot
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+#Visual Studio files
+*.[Oo]bj
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+!sc.lib
+*.sbr
+*.sdf
+ipch/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+[Tt]arget/
+Ankh.NoLoad
+.vs/
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+#Tooling
+_ReSharper*/
+*.user
+[Tt]est[Rr]esult*
 
-# Windows shortcuts
-*.lnk
+#Project files
+[Oo]utput/
 
-# =========================
-# Operating System Files
-# =========================
+#Subversion files
+.svn
 
-# OSX
-# =========================
+# Office Temp Files
+~$*
 
-.DS_Store
-.AppleDouble
-.LSOverride
+# Vi editor files
+.*.sw[op]
 
-# Thumbnails
-._*
+*_output
 
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+target
+/packages
