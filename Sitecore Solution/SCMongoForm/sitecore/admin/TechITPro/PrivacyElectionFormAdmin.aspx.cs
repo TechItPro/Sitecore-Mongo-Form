@@ -38,7 +38,7 @@ namespace SCMongoForm.sitecore.admin.TechITPro
         }
         public static IEnumerable<PrivacyFormData> ViewPrivacyForms(DateTime startDate, DateTime endDate)
         {
-            string conString = ConfigurationManager.ConnectionStrings["privacyelection.write"].ToString();
+            string conString = ConfigurationManager.ConnectionStrings["mongoform.write"].ToString();
             string collectionName = Constants.DataBaseConstants.CollectionNames.PRIVACYELECTIONS;
 
             PrivacyElectionForm pFormRepo = new PrivacyElectionForm

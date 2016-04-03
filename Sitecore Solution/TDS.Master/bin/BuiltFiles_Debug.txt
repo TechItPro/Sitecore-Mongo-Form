@@ -1,77 +1,33 @@
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Content\bootstrap-theme.css
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Content\bootstrap-theme.min.css
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Content\bootstrap.css
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Content\bootstrap.min.css
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\fonts\glyphicons-halflings-regular.svg
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\fonts\glyphicons-halflings-regular.woff2
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\fonts\glyphicons-halflings-regular.woff
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\fonts\glyphicons-halflings-regular.ttf
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\fonts\glyphicons-halflings-regular.eot
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Content\bootstrap.css.map
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Content\bootstrap-theme.css.map
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Scripts\bootstrap.js
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Scripts\bootstrap.min.js
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Scripts\jquery-1.9.1.js
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Scripts\jquery-1.9.1.min.js
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\sitecore\admin\TechITPro\PrivacyElectionFormAdmin.aspx
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Web.config
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\packages.config
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\TechITPro\Views\Layouts\DefaultLayout.cshtml
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\TechITPro\Views\Renderings\Sections\Components\PrivacyForm\PrivacyForm.cshtml
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\App_Config\Include\Glass.Mapper.Sc.Start.config
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\App_Config\Include\Glass.Mapper.Sc.config
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\App_Config\Include\Glass.Mapper.Sc.CodeFirst.config.exclude
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\TechITPro\Views\Web.config
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Scripts\jquery-1.9.1.min.map
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Castle.Core.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Castle.Core.xml
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Glass.Mapper.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Glass.Mapper.Sc.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Glass.Mapper.Sc.Mvc.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Glass.Mapper.Sc.Mvc.xml
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Glass.Mapper.Sc.xml
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Glass.Mapper.xml
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Microsoft.Web.Infrastructure.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\MongoDB.Bson.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\MongoDB.Driver.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Newtonsoft.Json.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\RazorEngine.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\RazorEngine.pdb
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\RazorEngine.xml
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\roslyn\csc.exe
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\roslyn\System.Collections.Immutable.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\roslyn\System.Reflection.Metadata.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\roslyn\vbc.exe
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\roslyn\VBCSCompiler.exe
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\roslyn\VBCSCompiler.exe.config
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\SCMongoForm.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\SCMongoForm.dll.config
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\SCMongoForm.pdb
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Sitecore.Client.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Sitecore.Kernel.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Sitecore.Mvc.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\System.Collections.Immutable.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\System.Web.Helpers.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\System.Web.Helpers.xml
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\System.Web.Mvc.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\System.Web.Mvc.xml
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\System.Web.Razor.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\System.Web.Razor.xml
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\System.Web.Webpages.Deployment.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\System.Web.Webpages.Deployment.xml
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\System.Web.Webpages.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\System.Web.Webpages.Razor.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\System.Web.Webpages.Razor.xml
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\System.Web.Webpages.xml
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\TechITPro.Samples.DAL.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\TechITPro.Samples.DAL.pdb
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\TechITPro.Samples.Models.dll
-C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\TechITPro.Samples.Models.pdb
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Content\bootstrap-theme.css
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Content\bootstrap-theme.min.css
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Content\bootstrap.css
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Content\bootstrap.min.css
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\fonts\glyphicons-halflings-regular.svg
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\fonts\glyphicons-halflings-regular.woff2
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\fonts\glyphicons-halflings-regular.woff
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\fonts\glyphicons-halflings-regular.ttf
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\fonts\glyphicons-halflings-regular.eot
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Content\bootstrap.css.map
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Content\bootstrap-theme.css.map
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Scripts\bootstrap.js
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Scripts\bootstrap.min.js
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Scripts\jquery-1.9.1.js
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Scripts\jquery-1.9.1.min.js
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\sitecore\admin\TechITPro\PrivacyElectionFormAdmin.aspx
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\packages.config
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\TechITPro\Views\Layouts\DefaultLayout.cshtml
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\TechITPro\Views\Renderings\Sections\Components\PrivacyForm\PrivacyForm.cshtml
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\App_Config\Include\Glass.Mapper.Sc.Start.config
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\App_Config\Include\Glass.Mapper.Sc.config
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\App_Config\Include\Glass.Mapper.Sc.CodeFirst.config.exclude
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\TechITPro\Views\Web.config
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\Scripts\jquery-1.9.1.min.map
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\SCMongoForm.dll
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\SCMongoForm.dll.config
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\SCMongoForm.pdb
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\TechITPro.Samples.DAL.dll
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\TechITPro.Samples.DAL.pdb
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\TechITPro.Samples.Models.dll
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\TDS.Master\bin\Debug\bin\TechITPro.Samples.Models.pdb

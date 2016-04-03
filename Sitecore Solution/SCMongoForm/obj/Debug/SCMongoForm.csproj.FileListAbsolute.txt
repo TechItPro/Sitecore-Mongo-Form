@@ -108,3 +108,13 @@ C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\SCMongoFo
 C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\SCMongoForm\obj\Debug\SCMongoForm.csprojResolveAssemblyReference.cache
 C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\SCMongoForm\obj\Debug\SCMongoForm.dll
 C:\GitHub Repositories\TechITPro\Sitecore-Mongo-Form\Sitecore Solution\SCMongoForm\obj\Debug\SCMongoForm.pdb
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\SCMongoForm\obj\Debug\SCMongoForm.csprojResolveAssemblyReference.cache
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\SCMongoForm\obj\Debug\SCMongoForm.dll
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\SCMongoForm\bin\SCMongoForm.dll.config
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\SCMongoForm\bin\SCMongoForm.dll
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\SCMongoForm\bin\SCMongoForm.pdb
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\SCMongoForm\bin\TechITPro.Samples.DAL.dll
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\SCMongoForm\bin\TechITPro.Samples.Models.dll
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\SCMongoForm\bin\TechITPro.Samples.DAL.pdb
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\SCMongoForm\bin\TechITPro.Samples.Models.pdb
+C:\GitHub\Sitecore-Mongo-Form\Sitecore Solution\SCMongoForm\obj\Debug\SCMongoForm.pdb

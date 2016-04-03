@@ -30,7 +30,7 @@ namespace SCMongoForm.TechITPro.Controllers
                 if (ModelState.IsValid)
                 {
                     //TODO -- simplify -- just use connection string in connection strings - and just have 1 constant for dbName and CollectionName
-                    string conString = ConfigurationManager.ConnectionStrings["privacyelection.write"].ToString();
+                    string conString = ConfigurationManager.ConnectionStrings["mongoform.write"].ToString();
                     string collectionName = Constants.DataBaseConstants.CollectionNames.PRIVACYELECTIONS;
 
                     PrivacyFormData formData = new PrivacyFormData();
